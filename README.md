@@ -35,3 +35,10 @@ Este é apenas o início do projeto para extração, ainda é necessário inclui
 <p align="center">
   <img alt="Tabela" width="75%" src="https://github.com/Gumilani/Robo_Extrai_Relatorio/blob/main/gif_robo.gif">
 </p>
+
+## Contato
+
+**Links para me acharem:**
+* [LinkedIn](https://www.linkedin.com/in/gustavostafocker/)
+* [GitHub](https://github.com/Gumilani)
+* Email: gstafocker2000@gmail.com
