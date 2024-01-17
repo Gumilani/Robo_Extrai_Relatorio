@@ -20,3 +20,8 @@
 
 Em dados temos diversas formas de colocarmos metricas para conseguirmos medir o que desejamos. No caso deste projeto iremos precisamos extrair os relatorios para medir o SLA(Service Level Agreement) de atendimento da equipe. 
 Como no caso essa metrica é medida mês a mês acaba genrando um trabalho repetido e muito manual,  então crie um robo utilizando o PYAUTOGUI para que eu possa estrair o relatorio de uma forma automatica e nesse tempo eu consigo por exemplo tomar um café.
+
+
+<p align="center">
+  <img alt="Tabela" width="70%" src="https://github.com/Gumilani/Robo_Extrai_Relatorio/blob/main/gif_robo.gif">
+</p>
