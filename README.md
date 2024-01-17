@@ -11,6 +11,9 @@
 
  O objetivo deste projeto é automatizar o processo de extração de relatórios de uma aplicação web para medir o SLA(Service Level Agreement) de atendimento da equipe de suporte de TI.
 
+ **Abaixo pode acessar o link para conferir o código :**
+ - [**Código Completo**](https://github.com/Gumilani/Robo_Extrai_Relatorio/blob/main/robo_auto.py)
+
 ## Tecnologias Utilizadas
 <p align="left"> 
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>   
