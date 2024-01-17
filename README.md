@@ -1,6 +1,6 @@
 [![author](https://img.shields.io/badge/author-Gustavomilani-red.svg)](https://www.linkedin.com/in/gustavostafocker/) [![](https://img.shields.io/badge/python+-blue.svg)](https://www.python.org/downloads/)  ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?s)
 
-# Projeto Robô que extrai relatorios da internet
+# Automação de Extração de Relatórios com PYAUTOGUI
 
 <p align="center">
   <img alt="Tabela" width="50%" src="https://github.com/Gumilani/Robo_Extrai_Relatorio/blob/main/imagem_robo.jpg">
@@ -9,7 +9,7 @@
 
 ## Objetivo do Projeto
 
- Nesse projeto temos como principal objetivo a automatização para extração de relatorios.
+ O objetivo deste projeto é automatizar o processo de extração de relatórios de uma aplicação web para medir o SLA(Service Level Agreement) de atendimento da equipe de suporte de TI.
 
 ## Tecnologias Utilizadas
 <p align="left"> 
@@ -18,10 +18,20 @@
 
 ## Destaques do Projeto
 
-Em dados temos diversas formas de colocarmos metricas para conseguirmos medir o que desejamos. No caso deste projeto iremos precisamos extrair os relatorios para medir o SLA(Service Level Agreement) de atendimento da equipe. 
-Como no caso essa metrica é medida mês a mês acaba genrando um trabalho repetido e muito manual,  então crie um robo utilizando o PYAUTOGUI para que eu possa estrair o relatorio de uma forma automatica e nesse tempo eu consigo por exemplo tomar um café.
+A automação foi desenvolvida utilizando a biblioteca PYAUTOGUI. 
+
+A iniciativa busca otimizar a eficiência operacional, substituindo tarefas manuais e repetitivas por um sistema automatizado. 
+
+Além de mitigar erros associados a processos manuais, a solução oferece uma abordagem consistente na extração de dados, permitindo análises mais precisas. 
+
+A implementação desse projeto visa contribuir para a simplificação e agilização de tarefas recorrentes, liberando recursos para atividades analíticas mais estratégicas.
+
+O GIF exibido aqui apenas exemplifica o funcionamento do robô uma vez que os dados reais não podem ser exibidos por questões de confidencialidade das informações. 
+
+Este é apenas o início do projeto para extração, ainda é necessário incluir o tratamento com relação à segurança dos dados. 
+
 
 
 <p align="center">
-  <img alt="Tabela" width="70%" src="https://github.com/Gumilani/Robo_Extrai_Relatorio/blob/main/gif_robo.gif">
+  <img alt="Tabela" width="75%" src="https://github.com/Gumilani/Robo_Extrai_Relatorio/blob/main/gif_robo.gif">
 </p>
