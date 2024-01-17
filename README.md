@@ -26,7 +26,7 @@ Além de mitigar erros associados a processos manuais, a solução oferece uma a
 
 A implementação desse projeto visa contribuir para a simplificação e agilização de tarefas recorrentes, liberando recursos para atividades analíticas mais estratégicas.
 
-O GIF exibido aqui apenas exemplifica o funcionamento do robô uma vez que os dados reais não podem ser exibidos por questões de confidencialidade das informações. 
+*OBS:* O GIF exibido aqui apenas exemplifica o funcionamento do robô uma vez que os dados reais não podem ser exibidos por questões de confidencialidade das informações. 
 
 Este é apenas o início do projeto para extração, ainda é necessário incluir o tratamento com relação à segurança dos dados. 
 
